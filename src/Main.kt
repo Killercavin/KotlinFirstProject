@@ -1,4 +1,10 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 fun main() {
+    // Write your solution here
+    println("Prices:")
+    println("bubblegum: $2")
+    println("Toffee: $0.2")
+    println("Ice cream: $5")
+    println("Milk chocolate: $4")
+    println("Doughnut: $2.5")
+    println("Pancake: $3.2")
 }
